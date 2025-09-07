@@ -1,5 +1,3 @@
-# Python3 program to show segment tree operations like
-# construction, query and update
 from math import ceil, log2;
 
 # A utility function to get the
